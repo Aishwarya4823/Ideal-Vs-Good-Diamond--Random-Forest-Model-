@@ -26,13 +26,13 @@ Dimensions :  53940 rows, 10 columns
 ## Model
 I have run, using Caret Package, a Random Forest model with the following accuracies:
 
-**Training Accuracy** : 0.9837482
-**Validation Accuracy** : 0.9822
+1) **Training Accuracy** : 0.9837482
+2) **Validation Accuracy** : 0.9822
 
 ## Tuned Hyperparameter Values:
-Minimum Node Size = 1
-Mtry = 11
-Splitrule = Gini
+1) Minimum Node Size = 1
+2) Mtry = 11
+3) Splitrule = Gini
 
 ## Model Results
 ![Winning Team](https://github.com/Aishwarya4823/Ideal-Vs-Good-Diamond--Random-Forest-Model-/blob/master/Images/Model_Result.PNG)
